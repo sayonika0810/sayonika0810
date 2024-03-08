@@ -2,7 +2,7 @@
 <h3 align="center">Student of ITER,SOA perusing B.Tech in CSE.</h3>
 
 - 👀 I’m interested in Coading and reading
-- 🌱 I’m currently learning react and angular.
+- 🌱 I’m currently learning Data Analytics and Backend developing.
 
 
 <h3 align="left">Connect with me:</h3>
