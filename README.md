@@ -11,7 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=sayonika0810&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sayonika0810&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayonika0810&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sayonika0810&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
