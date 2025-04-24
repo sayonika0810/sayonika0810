@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a passionate software engineer with a strong foundatio
 - **Backend:** Spring Boot, REST APIs, Node.js (learning)  
 - **Frontend:** HTML, CSS, React (learning)  
 - **Tools & Platforms:** Git, Postman, IntelliJ, Maven, Power BI  
-- **Databases:** MySQL, MongoDB (beginner)  
+- **Databases:** MySQL(beginner)  
 
 ---
 
