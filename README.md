@@ -1,5 +1,32 @@
-# 💫 About Me:
-### Hi there 👋<br>I'm Sayonika Pal<br>🔭 I’m currently working on Python and Data Analytics<br>🌱 I’m currently learning React and Node js<br>I'm a software engineer passionate about building <br>web applications and exploring new technologies. <br>I have experience with JavaScript, Python, and Java, and <br>I love working on projects that have a positive impact on <br>people's lives
+### 👋 Hi there, I'm Sayonika Pal
+
+💻 **Software Engineer | Java Developer | Tech Explorer**
+
+Welcome to my GitHub! I'm a passionate software engineer with a strong foundation in Java and backend development. I love building web applications, learning new technologies, and creating solutions that make a difference.
+
+---
+
+#### 🔧 Current Focus
+- ☕ Strengthening expertise in **Java**, **Spring Boot**, and backend architecture  
+- 🐍 Exploring **Python** for scripting and automation  
+- ⚛️ Learning **React** and **Node.js** to build full-stack applications  
+
+---
+
+#### 🛠 Tech Stack
+- **Languages:** Java (primary), Python, JavaScript  
+- **Backend:** Spring Boot, REST APIs, Node.js (learning)  
+- **Frontend:** HTML, CSS, React (learning)  
+- **Tools & Platforms:** Git, Postman, IntelliJ, Maven, Power BI  
+- **Databases:** MySQL, MongoDB (beginner)  
+
+---
+
+#### 💡 What Drives Me
+- Building scalable backend systems  
+- Designing clean, maintainable code  
+- Contributing to impactful projects  
+- Continuously learning and growing as a developer 
 
 
 ## 🌐 Socials:
